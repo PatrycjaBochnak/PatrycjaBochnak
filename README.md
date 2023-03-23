@@ -1,7 +1,6 @@
 👋 Hi, I’m @patrycjabochnak
 
-👀 I’m interested in computers
+💻 Welcome to my GitHub
 
-🌱 I’m currently learning node.js with express framework 
-
+📈 I'm increasing my skills in React and Angular
 
