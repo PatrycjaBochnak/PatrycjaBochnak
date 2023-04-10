@@ -1,4 +1,6 @@
-👋 Hi, I’m @patrycjabochnak
+꧁ hi! ꧂
+
+🌊 based in gdynia, poland
 
 💻 Welcome to my GitHub
 
