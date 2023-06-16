@@ -12,7 +12,7 @@
 
 - 📩 Open to contact with you: **patrycjabochnak@protonmail.com**
 
-- ⚡ Fun fact about me: I'm allergic to onions and my favorite chips are onion chips. ¯\_(ツ)_/¯
+- ⚡ Fun fact about me: I'm allergic to onions but my favorite chips are onion chips. ¯\_(ツ)_/¯
 
 <h3 align="left">Hit me up:</h3>
 <p align="center">
