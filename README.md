@@ -2,7 +2,8 @@
 <h3 align="center">A passionate junior fullstack dev from Gdynia in Poland</h3>
 
 <div align="center">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PatrycjaBochnak&label=Profile%20views&color=0e75b6&style=flat" alt="Patrycja" /> </p>
+<img src="https://komarev.com/ghpvc/?username=PatrycjaBochnak&style=flat-square&color=green" alt="Patrycja's Profile Views"/>
+
 </div>
 
 - 💻 I'm open for a new professional challenges. I'm mainly working in JavaScript.
