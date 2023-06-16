@@ -13,9 +13,10 @@
 - 📩 Open to contact with you: **patrycjabochnak@protonmail.com**
 
 <h3 align="left">Hit me up:</h3>
-<p align="left">
+<p align="center">
 <a href="https://fb.com/patkaoverdosee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ola.dabrowska.982" height="30" width="40" /></a>
 <a href="https://instagram.com/doseofpatka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mocnezarcie" height="30" width="40" /></a>
+<a href="https://linkedin.com/patrycjabochnak" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mocnezarcie" height="30" width="40" /> </a>
 </p>
 
 <h3 align="left">Languages and tools:</h3>
