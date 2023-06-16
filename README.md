@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PatrycjaBochnak&label=Profile%20views&color=0e75b6&style=flat" alt="Patrycja" /> </p>
 
-- 🥷 I’m currently increasing my skills in **ReactJS and **Typescript.**
+- 🥷 I’m currently increasing my skills in **ReactJS** and **Typescript**.
 
 - 📩 Open to contact with you: **patrycjabochnak@protonmail.com**
 
