@@ -13,7 +13,7 @@
 <a href="https://instagram.com/doseofpatka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mocnezarcie" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patrycjabochnak5&show_icons=true&locale=en&layout=compact" alt="patrycja" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patrycjabochnak&show_icons=true&locale=en&layout=compact" alt="patrycja" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrycjabochnak&show_icons=true&locale=en" alt="patrycja" /></p>
 
