@@ -6,7 +6,7 @@
 
 </div>
 
-- 💻 I'm open for a new professional challenges. I'm mainly working in Typescript.
+- 💻 I'm open for a new professional challenges. I'm mainly working in **Typescript**.
 
 - 🥷 I’m currently increasing my skills in **Typescript** and **MongoDB**.
 
