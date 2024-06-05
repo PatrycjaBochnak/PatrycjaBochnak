@@ -12,8 +12,6 @@
 
 - 📩 Open to contact with you: **patrycjabochnak@protonmail.com**
 
-- ⚡ Fun fact about me: I'm allergic to onions but my favorite snack is onion chips. 乁(ツ)ㄏ
-
 <h3 align="left">Hit me up:</h3>
 <p align="center">
 <a href="https://fb.com/patkaoverdosee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ola.dabrowska.982" height="30" width="40" /></a>
