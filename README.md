@@ -1,5 +1,5 @@
 <h1 align="center">꧁ Hi, I'm Patrycja ʕ•ᴥ• ʔ ꧂</h1>
-<h3 align="center">A passionate junior fullstack dev from Gdynia, Poland</h3>
+<h3 align="center">A passionate junior frontend dev from Gdynia, Poland</h3>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=PatrycjaBochnak&style=flat-square&color=green" alt="Patrycja's Profile Views"/>
